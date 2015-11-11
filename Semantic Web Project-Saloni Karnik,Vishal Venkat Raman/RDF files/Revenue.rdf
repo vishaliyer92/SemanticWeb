@@ -1,0 +1,317 @@
+<rdf:RDF
+    xmlns:rdf123="http://rdf123.umbc.edu/ns/"
+    xmlns:foo="http://www.foo.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+  <rdf:Description rdf:about="#Georgia">
+    <foo:federalSources>1,862,297</foo:federalSources>
+    <foo:currentSpendings>15,572,647</foo:currentSpendings>
+    <foo:totalRevenue>17,556,060</foo:totalRevenue>
+    <foo:totalExpenditure>17,387,814</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Wisconsin">
+    <foo:federalSources>907,311</foo:federalSources>
+    <foo:currentSpendings>9,648,094</foo:currentSpendings>
+    <foo:totalRevenue>10,862,147</foo:totalRevenue>
+    <foo:totalExpenditure>10,444,742</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Indiana">
+    <foo:federalSources>1,096,902</foo:federalSources>
+    <foo:currentSpendings>9,851,586</foo:currentSpendings>
+    <foo:totalRevenue>12,142,555</foo:totalRevenue>
+    <foo:totalExpenditure>11,095,248</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#United States">
+    <foo:federalSources>59,532,214</foo:federalSources>
+    <foo:currentSpendings>523,962,696</foo:currentSpendings>
+    <foo:totalRevenue>594,531,633</foo:totalRevenue>
+    <foo:totalExpenditure>593,818,290</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Oklahoma">
+    <foo:federalSources>773,014</foo:federalSources>
+    <foo:currentSpendings>5,021,707</foo:currentSpendings>
+    <foo:totalRevenue>5,823,118</foo:totalRevenue>
+    <foo:totalExpenditure>5,575,443</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Massachusetts">
+    <foo:federalSources>979,175</foo:federalSources>
+    <foo:currentSpendings>13,911,788</foo:currentSpendings>
+    <foo:totalRevenue>15,621,093</foo:totalRevenue>
+    <foo:totalExpenditure>15,322,929</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#South Dakota">
+    <foo:federalSources>212,615</foo:federalSources>
+    <foo:currentSpendings>1,091,980</foo:currentSpendings>
+    <foo:totalRevenue>1,296,353</foo:totalRevenue>
+    <foo:totalExpenditure>1,293,181</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Kansas">
+    <foo:federalSources>410,051</foo:federalSources>
+    <foo:currentSpendings>4,740,356</foo:currentSpendings>
+    <foo:totalRevenue>5,612,118</foo:totalRevenue>
+    <foo:totalExpenditure>5,606,955</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Colorado">
+    <foo:federalSources>705,634</foo:federalSources>
+    <foo:currentSpendings>7,279,824</foo:currentSpendings>
+    <foo:totalRevenue>8,570,286</foo:totalRevenue>
+    <foo:totalExpenditure>8,424,357</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Hawaii">
+    <foo:federalSources>318,728</foo:federalSources>
+    <foo:currentSpendings>2,220,637</foo:currentSpendings>
+    <foo:totalRevenue>2,535,038</foo:totalRevenue>
+    <foo:totalExpenditure>2,344,733</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#South Carolina">
+    <foo:federalSources>848,254</foo:federalSources>
+    <foo:currentSpendings>6,647,434</foo:currentSpendings>
+    <foo:totalRevenue>7,875,144</foo:totalRevenue>
+    <foo:totalExpenditure>7,923,946</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#District of Columbia">
+    <foo:federalSources>137,742</foo:federalSources>
+    <foo:currentSpendings>905,652</foo:currentSpendings>
+    <foo:totalRevenue>1,331,006</foo:totalRevenue>
+    <foo:totalExpenditure>1,189,542</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New Jersey">
+    <foo:federalSources>1,371,038</foo:federalSources>
+    <foo:currentSpendings>24,356,836</foo:currentSpendings>
+    <foo:totalRevenue>26,616,365</foo:totalRevenue>
+    <foo:totalExpenditure>25,663,828</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Texas">
+    <foo:federalSources>6,140,296</foo:federalSources>
+    <foo:currentSpendings>40,353,774</foo:currentSpendings>
+    <foo:totalRevenue>49,815,063</foo:totalRevenue>
+    <foo:totalExpenditure>50,054,220</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Illinois">
+    <foo:federalSources>2,430,413</foo:federalSources>
+    <foo:currentSpendings>25,211,371</foo:currentSpendings>
+    <foo:totalRevenue>29,153,117</foo:totalRevenue>
+    <foo:totalExpenditure>28,131,208</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Mississippi">
+    <foo:federalSources>795,110</foo:federalSources>
+    <foo:currentSpendings>4,022,904</foo:currentSpendings>
+    <foo:totalRevenue>4,466,518</foo:totalRevenue>
+    <foo:totalExpenditure>4,420,994</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Florida">
+    <foo:federalSources>3,068,321</foo:federalSources>
+    <foo:currentSpendings>22,788,834</foo:currentSpendings>
+    <foo:totalRevenue>24,131,880</foo:totalRevenue>
+    <foo:totalExpenditure>25,352,047</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Delaware">
+    <foo:federalSources>183,793</foo:federalSources>
+    <foo:currentSpendings>1,689,513</foo:currentSpendings>
+    <foo:totalRevenue>1,815,111</foo:totalRevenue>
+    <foo:totalExpenditure>1,861,298</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Alabama">
+    <foo:federalSources>789,954</foo:federalSources>
+    <foo:currentSpendings>6,493,448</foo:currentSpendings>
+    <foo:totalRevenue>7,135,105</foo:totalRevenue>
+    <foo:totalExpenditure>7,212,701</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Rhode Island">
+    <foo:federalSources>204,682</foo:federalSources>
+    <foo:currentSpendings>2,094,785</foo:currentSpendings>
+    <foo:totalRevenue>2,194,831</foo:totalRevenue>
+    <foo:totalExpenditure>2,173,173</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Virginia">
+    <foo:federalSources>1,365,551</foo:federalSources>
+    <foo:currentSpendings>13,479,465</foo:currentSpendings>
+    <foo:totalRevenue>14,692,768</foo:totalRevenue>
+    <foo:totalExpenditure>14,907,338</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Alaska">
+    <foo:federalSources>352,005</foo:federalSources>
+    <foo:currentSpendings>2,285,517</foo:currentSpendings>
+    <foo:totalRevenue>2,383,402</foo:totalRevenue>
+    <foo:totalExpenditure>2,483,320</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Washington">
+    <foo:federalSources>1,057,045</foo:federalSources>
+    <foo:currentSpendings>10,127,340</foo:currentSpendings>
+    <foo:totalRevenue>11,867,897</foo:totalRevenue>
+    <foo:totalExpenditure>12,150,499</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New York">
+    <foo:federalSources>3,769,627</foo:federalSources>
+    <foo:currentSpendings>54,584,741</foo:currentSpendings>
+    <foo:totalRevenue>58,757,633</foo:totalRevenue>
+    <foo:totalExpenditure>59,922,411</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Arizona">
+    <foo:federalSources>1,050,228</foo:federalSources>
+    <foo:currentSpendings>7,135,021</foo:currentSpendings>
+    <foo:totalRevenue>7,869,244</foo:totalRevenue>
+    <foo:totalExpenditure>8,054,662</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Utah">
+    <foo:federalSources>426,702</foo:federalSources>
+    <foo:currentSpendings>3,548,527</foo:currentSpendings>
+    <foo:totalRevenue>4,213,226</foo:totalRevenue>
+    <foo:totalExpenditure>4,327,370</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#California">
+    <foo:federalSources>8,793,325</foo:federalSources>
+    <foo:currentSpendings>58,095,154</foo:currentSpendings>
+    <foo:totalRevenue>66,568,626</foo:totalRevenue>
+    <foo:totalExpenditure>67,250,951</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Oregon">
+    <foo:federalSources>550,894</foo:federalSources>
+    <foo:currentSpendings>5,536,815</foo:currentSpendings>
+    <foo:totalRevenue>6,075,478</foo:totalRevenue>
+    <foo:totalExpenditure>6,301,825</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#West Virginia">
+    <foo:federalSources>432,223</foo:federalSources>
+    <foo:currentSpendings>3,270,186</foo:currentSpendings>
+    <foo:totalRevenue>3,958,439</foo:totalRevenue>
+    <foo:totalExpenditure>3,534,912</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Nevada">
+    <foo:federalSources>403,548</foo:federalSources>
+    <foo:currentSpendings>3,546,300</foo:currentSpendings>
+    <foo:totalRevenue>4,052,404</foo:totalRevenue>
+    <foo:totalExpenditure>4,107,797</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Minnesota">
+    <foo:federalSources>740,098</foo:federalSources>
+    <foo:currentSpendings>9,054,613</foo:currentSpendings>
+    <foo:totalRevenue>10,526,813</foo:totalRevenue>
+    <foo:totalExpenditure>10,532,589</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Iowa">
+    <foo:federalSources>512,246</foo:federalSources>
+    <foo:currentSpendings>5,003,871</foo:currentSpendings>
+    <foo:totalRevenue>6,037,366</foo:totalRevenue>
+    <foo:totalExpenditure>6,016,344</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Maine">
+    <foo:federalSources>239,982</foo:federalSources>
+    <foo:currentSpendings>2,372,463</foo:currentSpendings>
+    <foo:totalRevenue>2,555,729</foo:totalRevenue>
+    <foo:totalExpenditure>2,561,137</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Maryland">
+    <foo:federalSources>859,635</foo:federalSources>
+    <foo:currentSpendings>11,638,908</foo:currentSpendings>
+    <foo:totalRevenue>13,748,192</foo:totalRevenue>
+    <foo:totalExpenditure>12,945,940</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Arkansas">
+    <foo:federalSources>666,267</foo:federalSources>
+    <foo:currentSpendings>4,912,815</foo:currentSpendings>
+    <foo:totalRevenue>5,151,611</foo:totalRevenue>
+    <foo:totalExpenditure>5,613,825</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Tennessee">
+    <foo:federalSources>1,257,953</foo:federalSources>
+    <foo:currentSpendings>8,358,768</foo:currentSpendings>
+    <foo:totalRevenue>8,948,633</foo:totalRevenue>
+    <foo:totalExpenditure>9,230,243</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#North Carolina">
+    <foo:federalSources>1,831,015</foo:federalSources>
+    <foo:currentSpendings>12,055,354</foo:currentSpendings>
+    <foo:totalRevenue>12,788,659</foo:totalRevenue>
+    <foo:totalExpenditure>13,361,770</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Louisiana">
+    <foo:federalSources>1,527,734</foo:federalSources>
+    <foo:currentSpendings>7,592,600</foo:currentSpendings>
+    <foo:totalRevenue>8,449,930</foo:totalRevenue>
+    <foo:totalExpenditure>8,487,312</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Idaho">
+    <foo:federalSources>266,087</foo:federalSources>
+    <foo:currentSpendings>1,785,929</foo:currentSpendings>
+    <foo:totalRevenue>1,981,212</foo:totalRevenue>
+    <foo:totalExpenditure>1,911,706</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Kentucky">
+    <foo:federalSources>983,232</foo:federalSources>
+    <foo:currentSpendings>6,466,874</foo:currentSpendings>
+    <foo:totalRevenue>7,191,188</foo:totalRevenue>
+    <foo:totalExpenditure>7,442,661</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Ohio">
+    <foo:federalSources>2,007,733</foo:federalSources>
+    <foo:currentSpendings>19,310,163</foo:currentSpendings>
+    <foo:totalRevenue>22,035,362</foo:totalRevenue>
+    <foo:totalExpenditure>22,500,853</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Missouri">
+    <foo:federalSources>994,192</foo:federalSources>
+    <foo:currentSpendings>8,604,213</foo:currentSpendings>
+    <foo:totalRevenue>9,949,576</foo:totalRevenue>
+    <foo:totalExpenditure>9,818,855</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Wyoming">
+    <foo:federalSources>144,728</foo:federalSources>
+    <foo:currentSpendings>1,439,610</foo:currentSpendings>
+    <foo:totalRevenue>1,660,037</foo:totalRevenue>
+    <foo:totalExpenditure>1,654,343</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#North Dakota">
+    <foo:federalSources>160,050</foo:federalSources>
+    <foo:currentSpendings>1,147,943</foo:currentSpendings>
+    <foo:totalRevenue>1,304,100</foo:totalRevenue>
+    <foo:totalExpenditure>1,328,022</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Nebraska">
+    <foo:federalSources>366,016</foo:federalSources>
+    <foo:currentSpendings>3,398,322</foo:currentSpendings>
+    <foo:totalRevenue>3,691,601</foo:totalRevenue>
+    <foo:totalExpenditure>3,859,894</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Vermont">
+    <foo:federalSources>124,451</foo:federalSources>
+    <foo:currentSpendings>1,476,846</foo:currentSpendings>
+    <foo:totalRevenue>1,572,228</foo:totalRevenue>
+    <foo:totalExpenditure>1,535,141</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Montana">
+    <foo:federalSources>214,164</foo:federalSources>
+    <foo:currentSpendings>1,498,829</foo:currentSpendings>
+    <foo:totalRevenue>1,612,365</foo:totalRevenue>
+    <foo:totalExpenditure>1,632,772</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Pennsylvania">
+    <foo:federalSources>2,145,208</foo:federalSources>
+    <foo:currentSpendings>22,303,920</foo:currentSpendings>
+    <foo:totalRevenue>26,455,893</foo:totalRevenue>
+    <foo:totalExpenditure>25,105,120</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Connecticut">
+    <foo:federalSources>509,564</foo:federalSources>
+    <foo:currentSpendings>8,762,915</foo:currentSpendings>
+    <foo:totalRevenue>9,867,251</foo:totalRevenue>
+    <foo:totalExpenditure>9,534,667</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New Mexico">
+    <foo:federalSources>491,732</foo:federalSources>
+    <foo:currentSpendings>2,928,849</foo:currentSpendings>
+    <foo:totalRevenue>3,478,709</foo:totalRevenue>
+    <foo:totalExpenditure>3,610,384</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New Hampshire">
+    <foo:federalSources>187,243</foo:federalSources>
+    <foo:currentSpendings>2,601,337</foo:currentSpendings>
+    <foo:totalRevenue>2,862,014</foo:totalRevenue>
+    <foo:totalExpenditure>2,806,860</foo:totalExpenditure>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Michigan">
+    <foo:federalSources>1,866,406</foo:federalSources>
+    <foo:currentSpendings>15,735,318</foo:currentSpendings>
+    <foo:totalRevenue>17,671,139</foo:totalRevenue>
+    <foo:totalExpenditure>17,808,408</foo:totalExpenditure>
+  </rdf:Description>
+</rdf:RDF>

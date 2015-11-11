@@ -1,0 +1,311 @@
+<rdf:RDF
+    xmlns:rdf123="http://rdf123.umbc.edu/ns/"
+    xmlns:foo="http://www.foo.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+  <rdf:Description rdf:about="#Georgia">
+    <foo:literacyRate>79.3</foo:literacyRate>
+    <foo:FIPS_Code>13000</foo:FIPS_Code>
+    <foo:lackingSkills>20.7</foo:lackingSkills>
+    <foo:populationSize>6,365,942</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Wisconsin">
+    <foo:literacyRate>90.1</foo:literacyRate>
+    <foo:FIPS_Code>55000</foo:FIPS_Code>
+    <foo:lackingSkills>9.9</foo:lackingSkills>
+    <foo:populationSize>4,185,290</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Indiana">
+    <foo:literacyRate>89.7</foo:literacyRate>
+    <foo:FIPS_Code>18000</foo:FIPS_Code>
+    <foo:lackingSkills>10.3</foo:lackingSkills>
+    <foo:populationSize>4,633,843</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Oklahoma">
+    <foo:literacyRate>85.5</foo:literacyRate>
+    <foo:FIPS_Code>40000</foo:FIPS_Code>
+    <foo:lackingSkills>14.5</foo:lackingSkills>
+    <foo:populationSize>2,696,155</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Massachusetts">
+    <foo:literacyRate>87.9</foo:literacyRate>
+    <foo:FIPS_Code>25000</foo:FIPS_Code>
+    <foo:lackingSkills>12.1</foo:lackingSkills>
+    <foo:populationSize>5,096,670</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#South Dakota">
+    <foo:literacyRate>90.3</foo:literacyRate>
+    <foo:FIPS_Code>46000</foo:FIPS_Code>
+    <foo:lackingSkills>9.7</foo:lackingSkills>
+    <foo:populationSize>572,209</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Kansas">
+    <foo:literacyRate>89.8</foo:literacyRate>
+    <foo:FIPS_Code>20000</foo:FIPS_Code>
+    <foo:lackingSkills>10.2</foo:lackingSkills>
+    <foo:populationSize>2,048,059</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Colorado">
+    <foo:literacyRate>87.1</foo:literacyRate>
+    <foo:FIPS_Code>8000</foo:FIPS_Code>
+    <foo:lackingSkills>12.9</foo:lackingSkills>
+    <foo:populationSize>3,385,807</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Hawaii">
+    <foo:literacyRate>77.8</foo:literacyRate>
+    <foo:FIPS_Code>15000</foo:FIPS_Code>
+    <foo:lackingSkills>22.2</foo:lackingSkills>
+    <foo:populationSize>944,472</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#South Carolina">
+    <foo:literacyRate>81.6</foo:literacyRate>
+    <foo:FIPS_Code>45000</foo:FIPS_Code>
+    <foo:lackingSkills>18.4</foo:lackingSkills>
+    <foo:populationSize>3,098,822</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#District of Columbia">
+    <foo:literacyRate>66.9</foo:literacyRate>
+    <foo:FIPS_Code>11000</foo:FIPS_Code>
+    <foo:lackingSkills>33.1</foo:lackingSkills>
+    <foo:populationSize>425,630</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New Jersey">
+    <foo:literacyRate>79.2</foo:literacyRate>
+    <foo:FIPS_Code>34000</foo:FIPS_Code>
+    <foo:lackingSkills>20.8</foo:lackingSkills>
+    <foo:populationSize>6,610,051</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Texas">
+    <foo:literacyRate>77.9</foo:literacyRate>
+    <foo:FIPS_Code>48000</foo:FIPS_Code>
+    <foo:lackingSkills>22.1</foo:lackingSkills>
+    <foo:populationSize>15,936,279</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Illinois">
+    <foo:literacyRate>83.4</foo:literacyRate>
+    <foo:FIPS_Code>17000</foo:FIPS_Code>
+    <foo:lackingSkills>16.6</foo:lackingSkills>
+    <foo:populationSize>9,507,861</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Mississippi">
+    <foo:literacyRate>79.2</foo:literacyRate>
+    <foo:FIPS_Code>28000</foo:FIPS_Code>
+    <foo:lackingSkills>20.8</foo:lackingSkills>
+    <foo:populationSize>2,116,087</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Florida">
+    <foo:literacyRate>77.1</foo:literacyRate>
+    <foo:FIPS_Code>12000</foo:FIPS_Code>
+    <foo:lackingSkills>22.9</foo:lackingSkills>
+    <foo:populationSize>13,040,318</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Delaware">
+    <foo:literacyRate>83.6</foo:literacyRate>
+    <foo:FIPS_Code>10000</foo:FIPS_Code>
+    <foo:lackingSkills>16.4</foo:lackingSkills>
+    <foo:populationSize>618,525</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Alabama">
+    <foo:literacyRate>80.6</foo:literacyRate>
+    <foo:FIPS_Code>1000</foo:FIPS_Code>
+    <foo:lackingSkills>19.4</foo:lackingSkills>
+    <foo:populationSize>3,399,775</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Rhode Island">
+    <foo:literacyRate>86.1</foo:literacyRate>
+    <foo:FIPS_Code>44000</foo:FIPS_Code>
+    <foo:lackingSkills>13.9</foo:lackingSkills>
+    <foo:populationSize>832,138</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Virginia">
+    <foo:literacyRate>85.2</foo:literacyRate>
+    <foo:FIPS_Code>51000</foo:FIPS_Code>
+    <foo:lackingSkills>14.8</foo:lackingSkills>
+    <foo:populationSize>5,522,625</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Alaska">
+    <foo:literacyRate>86.7</foo:literacyRate>
+    <foo:FIPS_Code>2000</foo:FIPS_Code>
+    <foo:lackingSkills>13.3</foo:lackingSkills>
+    <foo:populationSize>460,997</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Washington">
+    <foo:literacyRate>87.2</foo:literacyRate>
+    <foo:FIPS_Code>53000</foo:FIPS_Code>
+    <foo:lackingSkills>12.8</foo:lackingSkills>
+    <foo:populationSize>4,641,680</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Utah">
+    <foo:literacyRate>86.1</foo:literacyRate>
+    <foo:FIPS_Code>49000</foo:FIPS_Code>
+    <foo:lackingSkills>13.9</foo:lackingSkills>
+    <foo:populationSize>1,638,079</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New York">
+    <foo:literacyRate>75</foo:literacyRate>
+    <foo:FIPS_Code>36000</foo:FIPS_Code>
+    <foo:lackingSkills>25</foo:lackingSkills>
+    <foo:populationSize>15,058,111</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Arizona">
+    <foo:literacyRate>81.9</foo:literacyRate>
+    <foo:FIPS_Code>4000</foo:FIPS_Code>
+    <foo:lackingSkills>18.1</foo:lackingSkills>
+    <foo:populationSize>4,083,287</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#California">
+    <foo:literacyRate>73.8</foo:literacyRate>
+    <foo:FIPS_Code>6000</foo:FIPS_Code>
+    <foo:lackingSkills>26.2</foo:lackingSkills>
+    <foo:populationSize>26,029,840</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Oregon">
+    <foo:literacyRate>86.1</foo:literacyRate>
+    <foo:FIPS_Code>41000</foo:FIPS_Code>
+    <foo:lackingSkills>13.9</foo:lackingSkills>
+    <foo:populationSize>2,713,872</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Nevada">
+    <foo:literacyRate>74.7</foo:literacyRate>
+    <foo:FIPS_Code>32000</foo:FIPS_Code>
+    <foo:lackingSkills>25.3</foo:lackingSkills>
+    <foo:populationSize>1,668,489</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#West Virginia">
+    <foo:literacyRate>82.8</foo:literacyRate>
+    <foo:FIPS_Code>54000</foo:FIPS_Code>
+    <foo:lackingSkills>17.2</foo:lackingSkills>
+    <foo:populationSize>1,418,672</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Minnesota">
+    <foo:literacyRate>92</foo:literacyRate>
+    <foo:FIPS_Code>27000</foo:FIPS_Code>
+    <foo:lackingSkills>8</foo:lackingSkills>
+    <foo:populationSize>3,852,097</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Iowa">
+    <foo:literacyRate>89.9</foo:literacyRate>
+    <foo:FIPS_Code>19000</foo:FIPS_Code>
+    <foo:lackingSkills>10.1</foo:lackingSkills>
+    <foo:populationSize>2,249,427</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Maine">
+    <foo:literacyRate>89.8</foo:literacyRate>
+    <foo:FIPS_Code>23000</foo:FIPS_Code>
+    <foo:lackingSkills>10.2</foo:lackingSkills>
+    <foo:populationSize>1,036,269</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Maryland">
+    <foo:literacyRate>86.3</foo:literacyRate>
+    <foo:FIPS_Code>24000</foo:FIPS_Code>
+    <foo:lackingSkills>13.7</foo:lackingSkills>
+    <foo:populationSize>4,190,921</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Arkansas">
+    <foo:literacyRate>82.8</foo:literacyRate>
+    <foo:FIPS_Code>5000</foo:FIPS_Code>
+    <foo:lackingSkills>17.2</foo:lackingSkills>
+    <foo:populationSize>2,044,669</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Tennessee">
+    <foo:literacyRate>83.5</foo:literacyRate>
+    <foo:FIPS_Code>47000</foo:FIPS_Code>
+    <foo:lackingSkills>16.5</foo:lackingSkills>
+    <foo:populationSize>4,439,666</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#North Carolina">
+    <foo:literacyRate>83.5</foo:literacyRate>
+    <foo:FIPS_Code>37000</foo:FIPS_Code>
+    <foo:lackingSkills>16.5</foo:lackingSkills>
+    <foo:populationSize>6,278,385</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Louisiana">
+    <foo:literacyRate>79.7</foo:literacyRate>
+    <foo:FIPS_Code>22000</foo:FIPS_Code>
+    <foo:lackingSkills>20.3</foo:lackingSkills>
+    <foo:populationSize>3,313,847</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Idaho">
+    <foo:literacyRate>86.2</foo:literacyRate>
+    <foo:FIPS_Code>16000</foo:FIPS_Code>
+    <foo:lackingSkills>13.8</foo:lackingSkills>
+    <foo:populationSize>1,000,313</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Kentucky">
+    <foo:literacyRate>85.7</foo:literacyRate>
+    <foo:FIPS_Code>21000</foo:FIPS_Code>
+    <foo:lackingSkills>14.3</foo:lackingSkills>
+    <foo:populationSize>3,202,516</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Ohio">
+    <foo:literacyRate>88</foo:literacyRate>
+    <foo:FIPS_Code>39000</foo:FIPS_Code>
+    <foo:lackingSkills>12</foo:lackingSkills>
+    <foo:populationSize>8,715,916</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Missouri">
+    <foo:literacyRate>90.8</foo:literacyRate>
+    <foo:FIPS_Code>29000</foo:FIPS_Code>
+    <foo:lackingSkills>9.2</foo:lackingSkills>
+    <foo:populationSize>4,321,763</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Wyoming">
+    <foo:literacyRate>87.8</foo:literacyRate>
+    <foo:FIPS_Code>56000</foo:FIPS_Code>
+    <foo:lackingSkills>12.2</foo:lackingSkills>
+    <foo:populationSize>382,009</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#North Dakota">
+    <foo:literacyRate>91</foo:literacyRate>
+    <foo:FIPS_Code>38000</foo:FIPS_Code>
+    <foo:lackingSkills>9</foo:lackingSkills>
+    <foo:populationSize>489,045</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Nebraska">
+    <foo:literacyRate>90.3</foo:literacyRate>
+    <foo:FIPS_Code>31000</foo:FIPS_Code>
+    <foo:lackingSkills>9.7</foo:lackingSkills>
+    <foo:populationSize>1,310,211</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Vermont">
+    <foo:literacyRate>90.6</foo:literacyRate>
+    <foo:FIPS_Code>50000</foo:FIPS_Code>
+    <foo:lackingSkills>9.4</foo:lackingSkills>
+    <foo:populationSize>485,416</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Montana">
+    <foo:literacyRate>87.8</foo:literacyRate>
+    <foo:FIPS_Code>30000</foo:FIPS_Code>
+    <foo:lackingSkills>12.2</foo:lackingSkills>
+    <foo:populationSize>704,494</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Pennsylvania">
+    <foo:literacyRate>84.5</foo:literacyRate>
+    <foo:FIPS_Code>42000</foo:FIPS_Code>
+    <foo:lackingSkills>15.5</foo:lackingSkills>
+    <foo:populationSize>9,561,844</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Connecticut">
+    <foo:literacyRate>87.5</foo:literacyRate>
+    <foo:FIPS_Code>9000</foo:FIPS_Code>
+    <foo:lackingSkills>12.5</foo:lackingSkills>
+    <foo:populationSize>2,668,989</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New Mexico">
+    <foo:literacyRate>78.4</foo:literacyRate>
+    <foo:FIPS_Code>35000</foo:FIPS_Code>
+    <foo:lackingSkills>21.6</foo:lackingSkills>
+    <foo:populationSize>1,394,621</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New Hampshire">
+    <foo:literacyRate>91.8</foo:literacyRate>
+    <foo:FIPS_Code>33000</foo:FIPS_Code>
+    <foo:lackingSkills>8.2</foo:lackingSkills>
+    <foo:populationSize>995,072</foo:populationSize>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Michigan">
+    <foo:literacyRate>89</foo:literacyRate>
+    <foo:FIPS_Code>26000</foo:FIPS_Code>
+    <foo:lackingSkills>11</foo:lackingSkills>
+    <foo:populationSize>7,629,134</foo:populationSize>
+  </rdf:Description>
+</rdf:RDF>

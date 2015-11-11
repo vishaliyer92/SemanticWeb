@@ -1,0 +1,51 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['State', 'Dependent Students', 'Independent Students'],
+          
+		  ['Nebraska',  40637,      36237],
+		  ['Nevada',  41400,      56376],
+		  ['New Hampshire',  33419,      22647],
+		  ['New Jersey',  239491,      151688],
+		  ['New Mexico',  33756,      47381],
+		  ['New York',  478632,      340100],
+		  ['North Carolina',  188602,      251535],
+		  ['North Dakota',  12329,      10398],
+		  ['Ohio',  250102,      269539],
+		  ['Oklahoma',  55750,      77880],
+		  ['Oregon',  74467,      113079],
+		  ['Pennsylvania',  310992,      228444],
+		  ['Rhode Island',  27938,      21318],
+		  ['South Carolina',  809,      695],
+		  ['South Dakota',  16089,      13719],
+		  ['Tennessee',  144977,      157041],
+		  ['Texas',  492335,      573552],
+		  ['Utah',  32141,      67186],
+		  ['Vermont',  14093,      9444],
+		  ['Virginia',  164698,      183459],
+		  ['Washington',  129573,      171175],
+		  ['Wisconsin',  125492,      110368],
+		  ['Wyoming',  7149,      9632],
+        ]);
+
+        var options = {
+          title: 'Federal Student Aid for Dependent and Independent Students',
+          vAxis: {title: 'State',  titleTextStyle: {color: 'red'}},
+		  hAxis: {title: 'Federal Student Aid', titleTextStyle: {color: 'red'}}
+        };
+
+        var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>

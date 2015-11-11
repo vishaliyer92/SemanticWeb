@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Expenditures</title>
+</head>
+
+<body>
+PREFIX  sw: <http://catalog.data.gov/dataset/annual-survey-of-school-system-finances>
+SELECT  ?state ?federalSources ?currentSpendings 
+WHERE { 
+  graph ?g{
+        ?s sw:state ?state.
+  	?s sw:federalSources ?federalSources .
+    ?s sw:currentSpendings  ?currentSpendings  .
+  }
+} 
+order by ?state
+</body>
+</html>

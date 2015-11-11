@@ -1,0 +1,390 @@
+<rdf:RDF
+    xmlns:rdf123="http://rdf123.umbc.edu/ns/"
+    xmlns:foo="http://www.foo.org/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+  <rdf:Description rdf:about="#Ontario">
+    <foo:independentStudents>282</foo:independentStudents>
+    <foo:dependentStudents>406</foo:dependentStudents>
+    <foo:totalAid>688</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Georgia">
+    <foo:independentStudents>287,038</foo:independentStudents>
+    <foo:dependentStudents>212,409</foo:dependentStudents>
+    <foo:totalAid>499,447</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Mexico">
+    <foo:independentStudents>269</foo:independentStudents>
+    <foo:dependentStudents>10,155</foo:dependentStudents>
+    <foo:totalAid>10,424</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#British Columbia">
+    <foo:independentStudents>141</foo:independentStudents>
+    <foo:dependentStudents>188</foo:dependentStudents>
+    <foo:totalAid>329</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Wisconsin">
+    <foo:independentStudents>110,368</foo:independentStudents>
+    <foo:dependentStudents>125,492</foo:dependentStudents>
+    <foo:totalAid>235,860</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Virgin Islands">
+    <foo:independentStudents>1,995</foo:independentStudents>
+    <foo:dependentStudents>2,653</foo:dependentStudents>
+    <foo:totalAid>4,648</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Marshall Islands">
+    <foo:independentStudents>246</foo:independentStudents>
+    <foo:dependentStudents>227</foo:dependentStudents>
+    <foo:totalAid>473</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Indiana">
+    <foo:independentStudents>180,699</foo:independentStudents>
+    <foo:dependentStudents>165,230</foo:dependentStudents>
+    <foo:totalAid>345,929</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Foreign Country">
+    <foo:independentStudents>4,947</foo:independentStudents>
+    <foo:dependentStudents>19,508</foo:dependentStudents>
+    <foo:totalAid>24,455</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Quebec">
+    <foo:independentStudents>75</foo:independentStudents>
+    <foo:dependentStudents>76</foo:dependentStudents>
+    <foo:totalAid>151</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Guam">
+    <foo:independentStudents>2,571</foo:independentStudents>
+    <foo:dependentStudents>2,878</foo:dependentStudents>
+    <foo:totalAid>5,449</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Oklahoma">
+    <foo:independentStudents>77,880</foo:independentStudents>
+    <foo:dependentStudents>55,750</foo:dependentStudents>
+    <foo:totalAid>133,630</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Massachusetts">
+    <foo:independentStudents>122,988</foo:independentStudents>
+    <foo:dependentStudents>175,993</foo:dependentStudents>
+    <foo:totalAid>298,981</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Nunavut">
+    <foo:independentStudents>2</foo:independentStudents>
+    <foo:dependentStudents>2</foo:dependentStudents>
+    <foo:totalAid>4</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#South Dakota">
+    <foo:independentStudents>13,719</foo:independentStudents>
+    <foo:dependentStudents>16,089</foo:dependentStudents>
+    <foo:totalAid>29,808</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Kansas">
+    <foo:independentStudents>58,139</foo:independentStudents>
+    <foo:dependentStudents>57,076</foo:dependentStudents>
+    <foo:totalAid>115,215</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Colorado">
+    <foo:independentStudents>112,021</foo:independentStudents>
+    <foo:dependentStudents>89,537</foo:dependentStudents>
+    <foo:totalAid>201,558</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Hawaii">
+    <foo:independentStudents>24,364</foo:independentStudents>
+    <foo:dependentStudents>25,413</foo:dependentStudents>
+    <foo:totalAid>49,777</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#South Carolina">
+    <foo:independentStudents>117,830</foo:independentStudents>
+    <foo:dependentStudents>92,003</foo:dependentStudents>
+    <foo:totalAid>209,833</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Northwest Territories">
+    <foo:independentStudents>4</foo:independentStudents>
+    <foo:dependentStudents>2</foo:dependentStudents>
+    <foo:totalAid>6</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Northern Mariana Islands">
+    <foo:independentStudents>513</foo:independentStudents>
+    <foo:dependentStudents>978</foo:dependentStudents>
+    <foo:totalAid>1,491</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New Jersey">
+    <foo:independentStudents>151,688</foo:independentStudents>
+    <foo:dependentStudents>239,491</foo:dependentStudents>
+    <foo:totalAid>391,179</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#District of Columbia">
+    <foo:independentStudents>15,225</foo:independentStudents>
+    <foo:dependentStudents>9,529</foo:dependentStudents>
+    <foo:totalAid>24,754</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Labrador">
+    <foo:independentStudents>6</foo:independentStudents>
+    <foo:dependentStudents>2</foo:dependentStudents>
+    <foo:totalAid>8</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Texas">
+    <foo:independentStudents>573,552</foo:independentStudents>
+    <foo:dependentStudents>492,335</foo:dependentStudents>
+    <foo:totalAid>1,065,887</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Palau">
+    <foo:independentStudents>314</foo:independentStudents>
+    <foo:dependentStudents>526</foo:dependentStudents>
+    <foo:totalAid>840</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Illinois">
+    <foo:independentStudents>280,648</foo:independentStudents>
+    <foo:dependentStudents>328,312</foo:dependentStudents>
+    <foo:totalAid>608,960</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Mississippi">
+    <foo:independentStudents>78,580</foo:independentStudents>
+    <foo:dependentStudents>57,107</foo:dependentStudents>
+    <foo:totalAid>135,687</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Florida">
+    <foo:independentStudents>498,880</foo:independentStudents>
+    <foo:dependentStudents>376,796</foo:dependentStudents>
+    <foo:totalAid>875,676</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Alabama">
+    <foo:independentStudents>103,193</foo:independentStudents>
+    <foo:dependentStudents>78,368</foo:dependentStudents>
+    <foo:totalAid>181,561</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Delaware">
+    <foo:independentStudents>17,981</foo:independentStudents>
+    <foo:dependentStudents>19,629</foo:dependentStudents>
+    <foo:totalAid>37,610</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Rhode Island">
+    <foo:independentStudents>21,318</foo:independentStudents>
+    <foo:dependentStudents>27,938</foo:dependentStudents>
+    <foo:totalAid>49,256</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Virginia">
+    <foo:independentStudents>183,459</foo:independentStudents>
+    <foo:dependentStudents>164,698</foo:dependentStudents>
+    <foo:totalAid>348,157</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Federated States of Micronesia">
+    <foo:independentStudents>829</foo:independentStudents>
+    <foo:dependentStudents>1,054</foo:dependentStudents>
+    <foo:totalAid>1,883</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Alaska">
+    <foo:independentStudents>14,934</foo:independentStudents>
+    <foo:dependentStudents>11,114</foo:dependentStudents>
+    <foo:totalAid>26,048</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Washington">
+    <foo:independentStudents>171,175</foo:independentStudents>
+    <foo:dependentStudents>129,573</foo:dependentStudents>
+    <foo:totalAid>300,748</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Utah">
+    <foo:independentStudents>67,186</foo:independentStudents>
+    <foo:dependentStudents>32,141</foo:dependentStudents>
+    <foo:totalAid>99,327</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Arizona">
+    <foo:independentStudents>151,000</foo:independentStudents>
+    <foo:dependentStudents>103,814</foo:dependentStudents>
+    <foo:totalAid>254,814</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New York">
+    <foo:independentStudents>340,100</foo:independentStudents>
+    <foo:dependentStudents>478,632</foo:dependentStudents>
+    <foo:totalAid>818,732</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Oregon">
+    <foo:independentStudents>113,079</foo:independentStudents>
+    <foo:dependentStudents>74,467</foo:dependentStudents>
+    <foo:totalAid>187,546</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#California">
+    <foo:independentStudents>909,580</foo:independentStudents>
+    <foo:dependentStudents>974,070</foo:dependentStudents>
+    <foo:totalAid>1,883,650</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#West Virginia">
+    <foo:independentStudents>38,741</foo:independentStudents>
+    <foo:dependentStudents>36,050</foo:dependentStudents>
+    <foo:totalAid>74,791</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Nevada">
+    <foo:independentStudents>56,376</foo:independentStudents>
+    <foo:dependentStudents>41,400</foo:dependentStudents>
+    <foo:totalAid>97,776</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Iowa">
+    <foo:independentStudents>54,399</foo:independentStudents>
+    <foo:dependentStudents>70,436</foo:dependentStudents>
+    <foo:totalAid>124,835</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Minnesota">
+    <foo:independentStudents>99,899</foo:independentStudents>
+    <foo:dependentStudents>120,996</foo:dependentStudents>
+    <foo:totalAid>220,895</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Maine">
+    <foo:independentStudents>27,555</foo:independentStudents>
+    <foo:dependentStudents>31,939</foo:dependentStudents>
+    <foo:totalAid>59,494</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Canada">
+    <foo:independentStudents>164</foo:independentStudents>
+    <foo:dependentStudents>246</foo:dependentStudents>
+    <foo:totalAid>410</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Maryland">
+    <foo:independentStudents>142,781</foo:independentStudents>
+    <foo:dependentStudents>136,190</foo:dependentStudents>
+    <foo:totalAid>278,971</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Arkansas">
+    <foo:independentStudents>69,333</foo:independentStudents>
+    <foo:dependentStudents>52,970</foo:dependentStudents>
+    <foo:totalAid>122,303</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Nova Scotia">
+    <foo:independentStudents>13</foo:independentStudents>
+    <foo:dependentStudents>10</foo:dependentStudents>
+    <foo:totalAid>23</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Tennessee">
+    <foo:independentStudents>157,041</foo:independentStudents>
+    <foo:dependentStudents>144,977</foo:dependentStudents>
+    <foo:totalAid>302,018</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Saskatchewan">
+    <foo:independentStudents>11</foo:independentStudents>
+    <foo:dependentStudents>21</foo:dependentStudents>
+    <foo:totalAid>32</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#North Carolina">
+    <foo:independentStudents>251,535</foo:independentStudents>
+    <foo:dependentStudents>188,602</foo:dependentStudents>
+    <foo:totalAid>440,137</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Louisiana">
+    <foo:independentStudents>96,903</foo:independentStudents>
+    <foo:dependentStudents>85,614</foo:dependentStudents>
+    <foo:totalAid>182,517</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Idaho">
+    <foo:independentStudents>40,443</foo:independentStudents>
+    <foo:dependentStudents>30,112</foo:dependentStudents>
+    <foo:totalAid>70,555</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Kentucky">
+    <foo:independentStudents>113,879</foo:independentStudents>
+    <foo:dependentStudents>86,205</foo:dependentStudents>
+    <foo:totalAid>200,084</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Yukon">
+    <foo:independentStudents>38</foo:independentStudents>
+    <foo:dependentStudents>10</foo:dependentStudents>
+    <foo:totalAid>48</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New Brunswick">
+    <foo:independentStudents>16</foo:independentStudents>
+    <foo:dependentStudents>15</foo:dependentStudents>
+    <foo:totalAid>31</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Puerto Rico">
+    <foo:independentStudents>63,391</foo:independentStudents>
+    <foo:dependentStudents>104,847</foo:dependentStudents>
+    <foo:totalAid>168,238</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Alberta">
+    <foo:independentStudents>93</foo:independentStudents>
+    <foo:dependentStudents>113</foo:dependentStudents>
+    <foo:totalAid>206</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Newfoundland">
+    <foo:independentStudents>10</foo:independentStudents>
+    <foo:dependentStudents>19</foo:dependentStudents>
+    <foo:totalAid>29</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Ohio">
+    <foo:independentStudents>269,539</foo:independentStudents>
+    <foo:dependentStudents>250,102</foo:dependentStudents>
+    <foo:totalAid>519,641</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Missouri">
+    <foo:independentStudents>138,731</foo:independentStudents>
+    <foo:dependentStudents>128,570</foo:dependentStudents>
+    <foo:totalAid>267,301</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#American Samoa">
+    <foo:independentStudents>695</foo:independentStudents>
+    <foo:dependentStudents>809</foo:dependentStudents>
+    <foo:totalAid>1,504</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Wyoming">
+    <foo:independentStudents>9,632</foo:independentStudents>
+    <foo:dependentStudents>7,149</foo:dependentStudents>
+    <foo:totalAid>16,781</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Manitoba">
+    <foo:independentStudents>17</foo:independentStudents>
+    <foo:dependentStudents>16</foo:dependentStudents>
+    <foo:totalAid>33</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#North Dakota">
+    <foo:independentStudents>10,398</foo:independentStudents>
+    <foo:dependentStudents>12,329</foo:dependentStudents>
+    <foo:totalAid>22,727</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Blank">
+    <foo:independentStudents>592</foo:independentStudents>
+    <foo:dependentStudents>133,162</foo:dependentStudents>
+    <foo:totalAid>133,754</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Nebraska">
+    <foo:independentStudents>36,237</foo:independentStudents>
+    <foo:dependentStudents>40,637</foo:dependentStudents>
+    <foo:totalAid>76,874</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Vermont">
+    <foo:independentStudents>9,444</foo:independentStudents>
+    <foo:dependentStudents>14,093</foo:dependentStudents>
+    <foo:totalAid>23,537</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Montana">
+    <foo:independentStudents>19,165</foo:independentStudents>
+    <foo:dependentStudents>16,503</foo:dependentStudents>
+    <foo:totalAid>35,668</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Pennsylvania">
+    <foo:independentStudents>228,444</foo:independentStudents>
+    <foo:dependentStudents>310,992</foo:dependentStudents>
+    <foo:totalAid>539,436</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Connecticut">
+    <foo:independentStudents>66,891</foo:independentStudents>
+    <foo:dependentStudents>96,597</foo:dependentStudents>
+    <foo:totalAid>163,488</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New Mexico">
+    <foo:independentStudents>47,381</foo:independentStudents>
+    <foo:dependentStudents>33,756</foo:dependentStudents>
+    <foo:totalAid>81,137</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#New Hampshire">
+    <foo:independentStudents>22,647</foo:independentStudents>
+    <foo:dependentStudents>33,419</foo:dependentStudents>
+    <foo:totalAid>56,066</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Michigan">
+    <foo:independentStudents>238,906</foo:independentStudents>
+    <foo:dependentStudents>242,048</foo:dependentStudents>
+    <foo:totalAid>480,954</foo:totalAid>
+  </rdf:Description>
+  <rdf:Description rdf:about="#Prince Edward Island">
+    <foo:independentStudents>14</foo:independentStudents>
+    <foo:dependentStudents>11</foo:dependentStudents>
+    <foo:totalAid>25</foo:totalAid>
+  </rdf:Description>
+</rdf:RDF>

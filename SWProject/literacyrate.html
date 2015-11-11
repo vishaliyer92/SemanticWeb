@@ -1,0 +1,81 @@
+<html>
+<head>
+  <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+  <script type='text/javascript'>
+   google.load('visualization', '1', {'packages': ['geomap']});
+   google.setOnLoadCallback(drawMap);
+
+    function drawMap() {
+      var data = google.visualization.arrayToDataTable([
+       ['State', 'Literacy Rate'],
+          ['Alabama',  81],
+          ['Alaska',  87],
+          ['Arizona', 82],
+          ['Arkansas', 83],
+		  ['California', 74],
+		  ['Colorado', 87],
+		  ['Connecticut', 88],
+		  ['Delaware', 84],
+		  ['District of Columbia', 67],
+		  ['Florida', 77],
+		  ['Georgia', 79],
+		  ['Hawaii', 78],
+		  ['Idaho', 86],
+		  ['Illinois', 83],
+		  ['Indiana', 90],
+		  ['Iowa', 90],
+		  ['Kansas', 90],
+		  ['Kentucky', 86],
+		  ['Louisiana', 80],
+		  ['Maine', 90],
+		  ['Maryland', 86],
+		  ['Massachusetts', 88],
+		  ['Michigan', 89],
+		  ['Minnesota', 92],
+		  ['Mississippi', 79],
+		  ['Missouri', 91],
+		  ['Montana', 88],
+		  ['Nebraska', 90],
+		  ['Nevada', 75],
+		  ['New Hampshire', 92],
+		  ['New Jersey', 79],
+		  ['New Mexico', 78],
+		  ['New York', 75],
+		  ['North Carolina', 84],
+		  ['North Dakota', 91],
+		  ['Ohio', 88],
+		  ['Oklahoma', 86],
+		  ['Oregon', 86],
+		  ['Pennsylvania', 85],
+		  ['Rhode Island', 86],
+		  ['South Carolina', 86],
+		  ['South Dakota', 90],
+		  ['Tennesee', 84],
+		  ['Texas', 78],
+		  ['Utah', 86],
+		  ['Vermont', 91],
+		  ['Virginia', 85],
+		  ['Washington', 87],
+		  ['West Virginia', 83],
+		  ['Wisconsin', 90],
+		  ['Wyoming', 88]
+        ]);
+
+      var options = {};
+      options['region'] = 'US';
+      options['colors'] = [0xFF8747, 0xFFB581, 0xc06000]; //orange colors
+      options['dataMode'] = 'markers';
+
+      var container = document.getElementById('map_canvas');
+      var geomap = new google.visualization.GeoMap(container);
+      geomap.draw(data, options);
+    };
+
+  </script>
+</head>
+
+<body>
+    <div id='map_canvas'></div>
+</body>
+
+</html>

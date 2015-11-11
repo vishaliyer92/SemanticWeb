@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Literacy Rate SPARQL</title>
+</head>
+
+<body>
+PREFIX  sw: <https://catalog.data.gov/dataset/2003-national-assessment-of-adult-literacy>
+SELECT  ?state ?literacyRate ?populationSize 
+WHERE { 
+  graph ?g{
+        ?s sw:state ?state.
+  	?s sw:literacyRate ?literacyRate .
+    ?s sw:populationSize  ?populationSize  .
+  }
+} 
+order by ?state
+</body>
+</html>

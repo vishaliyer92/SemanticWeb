@@ -1,0 +1,10 @@
+PREFIX  sw: <https://catalog.data.gov/dataset/campus-based-program-data-for-federal-student-aid>
+SELECT  ?state ?independentStudents ?totalAid 
+WHERE { 
+  graph ?g{
+        ?s sw:state ?state.
+  	?s sw:independentStudents ? independentStudents.
+    ?s sw:totalAid  ?totalAid  .
+  }
+} 
+order by ?state

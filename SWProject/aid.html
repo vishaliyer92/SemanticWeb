@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['State', 'Dependent Students', 'Independent Students'],
+          ['Alabama',  78368,      103193],
+          ['Alaska',  11114,      14934],
+          ['Alberta',  113,       93],
+          ['Arizona',  103814,      151000],
+		  ['Arkansas',  52970,      69333],
+		  ['California',  974070,      909580],
+		  ['Colorado',  89537,      112021],
+		  ['Connecticut',  	96597,      66891],
+		  ['Delaware',  19629,      17981],
+		  ['District of Columbia',  9529,      15225],
+		  ['Florida',  376796,      498880],
+		  ['Georgia',  212409,      287038],
+		  ['Guam',  2878,      2571],
+		  ['Hawaii',  25413,      24364],
+		  ['Idaho',  30112,      40443],
+		  ['Illinois',  328312,      280648],
+		  ['Indiana',  165230,      180699],
+		  ['Iowa',  70436,      54399],
+		  ['Kansas',  57076,      58139],
+		  ['Kentucky',  86205,      695],
+		  ['Louisiana',  85614,      96903],
+		  ['Maine',  31939,      27555],
+		  ['Maryland',  136190,      142781],
+		  ['Massachusetts',  175993,      122988],
+		  ['Michigan',  242048,      238906],
+		  ['Minnesota',  120996,      99899],
+		  ['Mississippi',  57107,      78580],
+		  ['Missouri',  128570,      138731],
+		  ['Montana',  16503,      19165]
+		
+        ]);
+
+        var options = {
+          title: 'Federal Student Aid for Dependent and Independent Students',
+          vAxis: {title: 'State',  titleTextStyle: {color: 'red'}},
+		  hAxis: {title: 'Federal Student Aid', titleTextStyle: {color: 'red'}}
+        };
+
+        var chart = new google.visualization.BarChart(document.getElementById('chart_div'));
+
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>
